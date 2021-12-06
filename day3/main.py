@@ -156,4 +156,4 @@ assert get_most_common_digit(test_bit_sums[0], 5) == "1"
 assert get_rating(test_diagnostic_report, "oxygen generator", 5) == 23
 assert get_rating(test_diagnostic_report, "co2 scrubber", 5) == 10
 assert day_three_puzzle_two("test_input.txt") == 230
-print(day_three_puzzle_two("input.txt"))
+assert day_three_puzzle_two("input.txt") == 482500
