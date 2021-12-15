@@ -14,7 +14,7 @@ read functionality
 '''
 
 import os
-os.chdir("/Users/vishalbakshi/documents/adventofcode/day2")
+os.chdir("/Users/vishalbakshi/documents/adventofcode2021/day4")
 
 '''
 SOLUTION (~15 minutes)

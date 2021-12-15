@@ -11,7 +11,7 @@ epsilon rate: a binary number made up of the LEAST common bit in each position
 '''
 
 import os
-os.chdir("/Users/vishalbakshi/documents/adventofcode/day3")
+os.chdir("/Users/vishalbakshi/documents/adventofcode2021/day4")
 
 '''
 SOLUTION

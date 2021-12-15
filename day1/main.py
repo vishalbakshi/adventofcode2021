@@ -8,7 +8,7 @@ There is no measurement before the first measurement.
 Lesson learned: don't forget to convert str to int before comparing values
 '''
 import os
-os.chdir("/Users/vishalbakshi/documents/adventofcode/day1")
+os.chdir("/Users/vishalbakshi/documents/adventofcode2021/day4")
 
 # Load the txt file into a list
 # Strip the new line character
